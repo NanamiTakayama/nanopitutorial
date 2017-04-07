@@ -1,3 +1,3 @@
 setInterval(function() {
-  console.log("Hello IoT from isaax");
-}, 5000);
+  console.log("Hello IoT");
+}, 500);
